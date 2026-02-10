@@ -11,7 +11,7 @@
 
 ### 🛠️ Technologies & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,php,git,vscode,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,php,git,vscode,ubuntu.discord" />
 </p>
 
 ---
