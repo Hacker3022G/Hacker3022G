@@ -20,9 +20,15 @@
 - Improving Java fundamentals
 - Building nothing
 - Learning somthing
+---
+
+### 🌐 Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-Hacker3022G-black?style=for-the-badge&logo=github)](https://github.com/Hacker3022G)
 
 ---
 
 ### 🤝 Connect With Me
 - 💬 Discord: *(agent0.0_9)* 
 - 🥲 insta *(haker3022g)*
+
+---
