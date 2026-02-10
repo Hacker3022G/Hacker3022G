@@ -1,16 +1,28 @@
-## Hi there 👋
+  <h1 align="center"> Hi 👋 i am agent0.0_9 for nothing ness </h1>
+<h3 align="center">a developer or a thing that can be destryoed </h3>
 
-<!--
-**Hacker3022G/Hacker3022G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🧠 Focused on **Java**,**Python**,**many more**, backend logic, and sometimes game systems.
+- 🎮 Interested in Minecraft plugins/custom SMP mechanics and discord bots etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologies & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,php,git,vscode,ubuntu" />
+</p>
+
+---
+
+### 🔨 Currently Working On
+- Improving Java fundamentals
+- Building small but clean projects
+- Learning better project structure & performance
+
+---
+
+### 🤝 Connect With Me
+- 💬 Discord: *(agent0.0_9)* 
+- 🥲 insta *(haker3022g)*
