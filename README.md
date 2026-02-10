@@ -33,3 +33,16 @@
   <small><b>-- agent0.0_9</b></small>
 </p>
 
+
+<p align="left">
+  <a href="https://github.com/Hacker3022G">
+    <img src="https://img.shields.io/badge/GitHub-Hacker3022G-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/Discord-agent0.0__9-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://instagram.com/Hacker3022G">
+    <img src="https://img.shields.io/badge/Instagram-Hacker3022G-833AB4?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
