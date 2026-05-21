@@ -1,5 +1,5 @@
   <h1 align="center"> Hi 👋 i am agent0.0_9 from nothing ness </h1>
-<h3 align="center">a developer or a thing that can be destryoed </h3>
+<h3 align="center">a developer or a thing that can't be destryoed </h3>
 
 ---
 
