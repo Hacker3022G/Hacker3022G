@@ -3,26 +3,26 @@
 
 ---
 
-### 🚀 About Me
-- 🧠 Focused on **Java**,**Python**,**many more**, backend logic, and sometimes game systems.
-- 🎮 Interested in Minecraft plugins/custom SMP mechanics and discord bots etc.
+### • About Me
+-  Focused on **Java**,**Python**,**many more**, backend logic, and sometimes game systems.
+-  Interested in Minecraft plugins/custom SMP mechanics and discord bots etc.
 
 ---
 
-### 🛠️ Technologies & Tools
+### • Technologies & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,js,php,git,vscode,ubuntu,nodejs,discord" />
 </p>
 
 ---
 
-### 🔨 Currently Working On
+### • Currently Working On
 - Improving Java fundamentals
 - Building nothing
 - Learning somthing
   
 ---
-### 🌐 Connect with me
+### • Connect with me
 <p align="left">
   <a href="https://github.com/Hacker3022G">
     <img src="https://img.shields.io/badge/GitHub-Hacker3022G-black?style=for-the-badge&logo=github">
