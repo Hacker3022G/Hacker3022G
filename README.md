@@ -19,7 +19,7 @@
 ### • Currently Working On
 - Improving Java fundamentals
 - Building nothing
-- Learning somthing
+- Learning Java/Minecraft Modding.
   
 ---
 ### • Connect with me
